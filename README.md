@@ -9,6 +9,7 @@
 (Python | Javascript | HTML | CSS ) 
 - 🎓 Biomedical Engineer Student @ [UFRN]
 - 💡 Challenge moves me
+- 💻 Currently working at DNACenter
 
 <div align="left">  
  </div>
