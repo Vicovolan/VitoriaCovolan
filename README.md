@@ -6,7 +6,7 @@
 <img align="right" alt="image" src="./.jpg"  width="300px"/>
 
 ## My name is Vitoria Covolan
-(Python | Javascript | HTML ) 
+(Python | Javascript | Power BI ) 
 - 🎓 Biomedical Engineer Student @ [UFRN]
 - 💡 Challenge moves me
 - 💻 Currently working at DNACenter
